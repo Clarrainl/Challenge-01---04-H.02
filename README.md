@@ -17,7 +17,7 @@
 
 ## Overview
 <!-- Write Overview about this project -->
-The project's justification, state-of-the-art, and inspiration live in this section.
+As part of this hardware course assignment, we were challenged to explore the fundamentals of Arduino-based design and programming. These challenges are designed to help us build essential skills in hardware interaction, reading digital and analog inputs, controlling outputs, and working with basic components such as buttons, LEDs, and potentiometers.
 
 
 ## Challenge_#1
@@ -46,12 +46,24 @@ The button acts as a toggle switch: pressing it once turns the LED ON, and press
 
 ## Challenge_#3
 <!-- Write Overview about this project -->
-The project's justification, state-of-the-art, and inspiration live in this section.
+In this scenario, we add a second button and another LED:
+
+Press Button1, and both LEDs turn ON and stay ON, even after releasing the button.
+Press Button2, and both LEDs turn OFF.
+
+A pull-up or pull-down resistor ensures the buttons work smoothly. Button1 turns the LEDs ON, and Button2 turns them OFF. Simple and effective!
+
+### Demostration
 
 ## Challenge_#4
 <!-- Write Overview about this project -->
-The project's justification, state-of-the-art, and inspiration live in this section.
+In this scenario, a potentiometer is connected to the Arduino to control and observe its behavior:
 
+As you turn the potentiometer knob, its values are read and displayed on the serial monitor.
+You can also connect an LED and use PWM (Pulse Width Modulation) to adjust its brightness, making a simple dimmer.
+The potentiometer acts as a controller, and the LED’s brightness changes smoothly based on the knob’s position. A great way to experiment with analog inputs and outputs!
+
+### Demostration
 
 ## Authors
   - [Name](insert linkedin/webpage link) - role
