@@ -72,7 +72,7 @@ The potentiometer acts as a controller, and the LED’s brightness changes smoot
 
 ## Credits
   - [maritaganta](https://github.com/maritaganta)
-  - 
+  - Pit
 
 <!--  DO NOT REMOVE
 -->
