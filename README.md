@@ -1,7 +1,7 @@
 # Group Project Repository Submission Template 
 ## Index
   - [Overview](#overview) 
-  - [Challenge_#1](#challenge_#1)
+  - [Challenge_#1](#Challenge_#1)
   - [Challenge_#2.1](#challenge_#2.1)
   - [Challenge_#2.2](#challenge_#2.2)
   - [Challenge_#2.3](#challenge_#2.3)
