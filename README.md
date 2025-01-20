@@ -74,11 +74,12 @@ The potentiometer acts as a controller, and the LED’s brightness changes smoot
 
 ## Challenge_#5
 <!-- Write Overview about this project -->
-In this scenario, a potentiometer is connected to the Arduino to control and observe its behavior:
+In this exercise, we connected an ultrasonic sensor to a microcontroller (like an Arduino or Pico) to measure distances. Then, we set up three LEDs (green, yellow, and red) to turn on or off based on the distance measured by the sensor:
 
-As you turn the potentiometer knob, its values are read and displayed on the serial monitor.
-You can also connect an LED and use PWM (Pulse Width Modulation) to adjust its brightness, making a simple dimmer.
-The potentiometer acts as a controller, and the LED’s brightness changes smoothly based on the knob’s position. A great way to experiment with analog inputs and outputs!
+Distance greater than 1 meter: The green LED turns on.
+Distance between 20 cm and 1 meter: The yellow LED turns on.
+Distance less than 20 cm: The red LED turns on.
+Additionally, we logged the distance measurements to a file to keep a record of the values. This helps us understand how the sensor works and visualize the information.
 
 ### Demostration
 ![09](https://github.com/user-attachments/assets/68ef5f56-1688-45e5-a77f-0eca129224ce)
