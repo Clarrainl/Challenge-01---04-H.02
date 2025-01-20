@@ -7,6 +7,7 @@
   - [Challenge_#2.3](#challenge_#2.3)
   - [Challenge_#3](#challenge_#3)
   - [Challenge_#4](#challenge_#4)
+  - [Challenge_#5](#challenge_#5)
   - [Authors](#authors)
   - [References](#references)
   - [Credits](#credits)
