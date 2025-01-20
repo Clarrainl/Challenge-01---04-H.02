@@ -72,6 +72,18 @@ The potentiometer acts as a controller, and the LED’s brightness changes smoot
 ![4 1](https://github.com/user-attachments/assets/872c4915-c852-4b34-901d-4f3229a2cf8f)
 ![4 2](https://github.com/user-attachments/assets/4b5c2d70-c615-47af-914a-45434486cdee)
 
+## Challenge_#5
+<!-- Write Overview about this project -->
+In this scenario, a potentiometer is connected to the Arduino to control and observe its behavior:
+
+As you turn the potentiometer knob, its values are read and displayed on the serial monitor.
+You can also connect an LED and use PWM (Pulse Width Modulation) to adjust its brightness, making a simple dimmer.
+The potentiometer acts as a controller, and the LED’s brightness changes smoothly based on the knob’s position. A great way to experiment with analog inputs and outputs!
+
+### Demostration
+![09](https://github.com/user-attachments/assets/68ef5f56-1688-45e5-a77f-0eca129224ce)
+
+
 ## Authors
   - [Clarrainl](https://github.com/Clarrainl)
   - [mauweberla](https://github.com/Mauweberla)
